@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(155, 154, 154);
+    font-size: 20px;
+    color: rgb(3, 3, 3);
+    line-height: 1;
+    margin: 1.5rem;
+}
+
+h1, h2, p{
+    text-align: center;
+    margin: 0.5rem;
+}
+
+li, a{
+    text-align: center;
+    margin: 1rem;
+    list-style-type: none;
+}
